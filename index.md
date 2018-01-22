@@ -1,6 +1,6 @@
 ---
 title: My page
-layout: blog
+layout: default
 ---
 # Header 1
 ## Header 2
